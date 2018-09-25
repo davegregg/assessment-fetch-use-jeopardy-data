@@ -7,11 +7,11 @@ Now it's time to use `fetch()` to make some GET requests and do something semi-i
 ### MVP
 
 1. Review the documentation for [jService, an open "Jeopardy" API](http://jservice.io/). Experiment a little and see what data you can get back.
-2. Use jService when a page loads to retrieve a question and present it to the user. (5 points)
-3. Provide the user an input box for supplying an answer, and a button for making a guess. (5 points)
+2. Use jService when a page loads to retrieve a question and present it to the user. *(5 points)*
+3. Provide the user an input box for supplying an answer, and a button for making a guess. *(5 points)*
 4. When the user makes a guess, check if the user-supplied answer is the correct answer.
-5. Award points (based on the "difficulty") to the user if they guess the answer correctly. (5 points)
-6. Load a new question for the user. (5 points)
+5. Award points (based on the "difficulty") to the user if they guess the answer correctly. *(5 points)*
+6. Load a new question for the user. *(5 points)*
 7. You do not have to provide a win condition.
 
 ### Stretch Goal
