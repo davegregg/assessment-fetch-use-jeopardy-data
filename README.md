@@ -6,7 +6,7 @@ Now it's time to use `fetch()` to make some GET requests and do something semi-i
 
 ### MVP
 
-1. Review the documentation for [jService, an open "Jeopardy" API](http://jservice.io/). Experiment a little and see what data you can get back.
+1. Review the documentation for [jService, an open "Jeopardy" API](https://jservice.xyz/). Experiment a little and see what data you can get back.
 2. Identify a set of categories from the Popular Categories page which you want to display in your Jeopardy.
 3. On page load, request each category from jService and display them Jeopardy-style in a grid on the page. Show only the point values initially. Display the clue on each cell on click. *(8 points)*
 4. Above your grid (or at the top of it), show the category for each column. *(4 points)*
