@@ -13,7 +13,7 @@ Now it's time to use `fetch()` to make some GET requests and do something semi-i
 5. Use your Grid and Cell classes to extend a JeopardyGrid and JeopardyCell class, which you will use to create your grid. *(8 points)*
 6. Provide the user an input box for supplying an answer, and a button for making a guess. *(1 point)*
 7. When the user makes a guess, check if the user-supplied answer is the correct answer. *(1 point)*
-8. Award points (based on the "difficulty") to the user if they guess the answer correctly. *(1 point)*
+8. Award points (based on the "value") to the user if they guess the answer correctly. *(1 point)*
 9. Load a new question for the user. *(2 point)*
 10. You do not have to provide a win condition.
 
