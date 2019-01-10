@@ -28,6 +28,6 @@ Now it's time to use `fetch()` to make some GET requests and do something semi-i
 1. Use GitLab for this assessment.
 2. Before you touch any code, make a plan.
 3. Create a README.md file in your repo, and use it to record your notes and pseudo-code from Step 1.
-4. Enable Pages for your repo (by using [init-gitlab-page](https://gitlab.com/kenzie-academy/misc/init-gitlab-page)).
+4. Enable Pages for your repo (by using [init-gitlab-page](https://my.kenzie.academy/courses/20/assignments/2434?module_item_id=3444)).
 5. When you run `init-gitlab-page` make note of the URL it gives you on the console. This is the link to your GitLab Page.
 6. On Canvas, submit the link to your GitLab Page.
